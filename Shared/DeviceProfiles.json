@@ -12,6 +12,7 @@
     "notch13ProMax": { "type": "notch", "width": 0.379, "height": 0.077 },
     "notchMini": { "type": "notch", "width": 0.480, "height": 0.088 },
     "island": { "type": "island", "width": 0.320, "height": 0.095, "top": 0.029 },
+    "island14ProMax": { "type": "island", "width": 0.297, "height": 0.085, "top": 0.026 },
     "holeDuo": { "type": "hole", "centerX": 0.897, "centerY": 0.102, "diameter": 0.077 },
     "underDisplay": { "type": "none" }
   },
@@ -38,7 +39,7 @@
     "iPhone14,7": { "name": "iPhone 14", "cutout": "notch13", "corner": 0.121, "points": [390, 844] },
     "iPhone14,8": { "name": "iPhone 14 Plus", "cutout": "notch13ProMax", "corner": 0.125, "points": [428, 926], "ppi": 458 },
     "iPhone15,2": { "name": "iPhone 14 Pro", "cutout": "island", "corner": 0.140, "points": [393, 852] },
-    "iPhone15,3": { "name": "iPhone 14 Pro Max", "cutout": "island", "corner": 0.128, "points": [430, 932] },
+    "iPhone15,3": { "name": "iPhone 14 Pro Max", "cutout": "island14ProMax", "corner": 0.128, "points": [430, 932] },
     "iPhone15,4": { "name": "iPhone 15", "cutout": "island", "corner": 0.140, "points": [393, 852] },
     "iPhone15,5": { "name": "iPhone 15 Plus", "cutout": "island", "corner": 0.128, "points": [430, 932] },
     "iPhone16,1": { "name": "iPhone 15 Pro", "cutout": "island", "corner": 0.140, "points": [393, 852] },
